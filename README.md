@@ -28,10 +28,6 @@
 - 메인 페이지 : 설문, 게시판, 공지사항, 게임 중 원하는 것은 눌러 이동
 ![스크린샷(2234)](https://github.com/jsh111111/project_homepage/assets/103101458/cce5c308-d19f-4e8f-8fba-7a7c56dbab6d)
 
-- 로그인, 회원가입 (모달)
-![스크린샷(2235)](https://github.com/jsh111111/project_homepage/assets/103101458/45dbd1f8-72d0-4557-b643-4daef8780971)
-![스크린샷(2236)](https://github.com/jsh111111/project_homepage/assets/103101458/def120b5-3c0d-4bd4-8cfd-1d70d323c05a)
-
 <br>
 
 # 🌈 게시판
